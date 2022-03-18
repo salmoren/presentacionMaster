@@ -1,0 +1,17 @@
+# Técnicas de accesibilidad utilizadas en la presentación destinadas a una audiencia con lectores de pantalla.
+
+* Todas las imágenes tienen una descripción o pie donde se refleja la información imprescindible sobre ella.
+
+* El único video añadido no posee transcripción debido a que no posee información transmitida por voz.
+
+* Se ha intentado seguir un diseño lineal y lógico que sea intuitivo y fácil de leer para los usuarios.
+
+* La estructura del contenido se ha construido a través de HTML5, ya que hemos usado el framework Reveal.js de forma nativa para realizar la presentación.
+
+* La presentación se puede trabajar solamente con el teclado.
+
+* Los enlaces que se muestran en la presentación son descriptivos y no dan pie a confusión.
+
+## Cosas que considero que debo mejorar
+
+* He mostrado cierta información solamente con un video, aunque este, como he apuntado antes, no transmite información por voz. Esto no se debe hacer ya que acoto la transmisión a un solo canal.
